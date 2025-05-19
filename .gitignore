@@ -1,0 +1,10 @@
+config/db.py
+config/cfg.py
+
+.idea/
+venv/
+__pycache__/
+scratch/
+output/
+mamba/
+misc/
